@@ -8,18 +8,6 @@
 
 > Building production-ready mobile apps with modern architectures
 
-## 💼 Professional Experience
-
-🏢 **Mobile Developer** @ Mevivu Technology *(Dec 2024 - Present)*
-- Shipped apps to Google Play & App Store with 100% crash-free rate
-- Implemented BLoC + Clean Architecture for scalable Flutter apps
-- Built CI/CD pipelines reducing deployment time by 70%
-
-📱 **Mobile Developer Intern** @ ITbee Solutions *(Jun - Sep 2024)*
-- Developed features with GetX/MVC architecture
-- Integrated real-time notifications via FCM
-- Optimized UI/UX for responsive mobile experiences
-
 ## 🛠️ Tech Stack
 
 ### Mobile Development
