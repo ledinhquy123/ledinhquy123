@@ -61,13 +61,6 @@ Real-time vehicle tracking system serving enterprise clients
 </tr>
 </table>
 
-## 🏆 Achievements
-
-- 🎓 **Bachelor of IT** - GPA 3.3/4.0
-- 🏅 **National Student Informatics Olympiad** (2023)
-- 📜 **TOEIC 590**
-- 🚀 **Shipped production apps** used by real users
-
 ## 📈 Development Stats
 ```dart
 class DeveloperStats {
